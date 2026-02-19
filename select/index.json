@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Shirushi",
+  "base_artist": "LiSA",
+  "createdAt": "2026-02-19T17:01:57.635699Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花痕 -shirushi-",
+      "artist": "河野マリナ",
+      "has_synced": true,
+      "path": "select/01_花痕_-shirushi-_河野マリナ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hanaato -Shirushi-",
+      "artist": "Marina Kawano",
+      "has_synced": true,
+      "path": "select/02_Hanaato_-Shirushi-_Marina_Kawano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shirushi",
+      "artist": "ラックライフ",
+      "has_synced": true,
+      "path": "select/03_Shirushi_ラックライフ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shirushi (Explicit)",
+      "artist": "Luck Life",
+      "has_synced": true,
+      "path": "select/04_Shirushi_(Explicit)_Luck_Life.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "花痕 -shirushi-",
+      "artist": "河野 マリナ",
+      "has_synced": true,
+      "path": "select/05_花痕_-shirushi-_河野_マリナ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "花痕 -shirushi-",
+      "artist": "河野マリナ",
+      "has_synced": true,
+      "path": "select/06_花痕_-shirushi-_河野マリナ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shirushi",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/07_Shirushi_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shirushi - Russian ver.",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/08_Shirushi_-_Russian_ver._Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shirushi",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/09_Shirushi_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shirushi - 2015 Budoukan Live Chocolate Version",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/10_Shirushi_-_2015_Budoukan_Live_Chocolate_Version_LiSA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shirushi - 2015 Budoukan Live Ichigo Version",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/11_Shirushi_-_2015_Budoukan_Live_Ichigo_Version_LiSA.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shirushi",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/12_Shirushi_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shirushi",
+      "artist": "LiSA - Topic",
+      "has_synced": true,
+      "path": "select/13_Shirushi_LiSA_-_Topic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shirushi",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_Shirushi_LiSA.txt"
+    }
+  ]
+}
